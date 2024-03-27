@@ -42,16 +42,16 @@ Year of graduation: 2026
 
 ### Projects:
 
--	Developed a full-fledged web application for task management using HTML, CSS, JavaScript, Node.js, and MongoDB.
+-	Developed a full-fledged web application for task management using HTML, CSS, JavaScript, Node.js, and MongoDB.  
 *shpack.monster open-source project* (03.05.2022 - 05.07.2022)
 
--	Created an interactive portfolio using React.js, Redux, and REST API to showcase works and projects.
+-	Created an interactive portfolio using React.js, Redux, and REST API to showcase works and projects.  
 *shpack.monster open-source project* (10.07.2022 - 17.11.2022)
 
-- Built a blog with user authentication and CRUD functionalities using Express.js and MongoDB.
+- Built a blog with user authentication and CRUD functionalities using Express.js and MongoDB.  
 *shpack.monster open-source project* (22.01.2023 - 09.04.2023)
 
--	Implemented real-time chat functionality using WebSocket as part of a team project.
+-	Implemented real-time chat functionality using WebSocket as part of a team project.  
 *shpack.monster open-source project* (27.05.2023 - 18.10.2023)
 
 ## Additional information:
