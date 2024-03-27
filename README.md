@@ -40,6 +40,13 @@ Technician technologist
 Minsk Radio Engineering College branch of the Belarusian State University of Informatics and Radioelectronics
 Year of graduation: 2026
 
+### Projects:
+
+-	Developed a full-fledged web application for task management using HTML, CSS, JavaScript, Node.js, and MongoDB.
+-	Created an interactive portfolio using React.js, Redux, and REST API to showcase works and projects.
+- Built a blog with user authentication and CRUD functionalities using Express.js and MongoDB.
+-	Implemented real-time chat functionality using WebSocket as part of a team project.
+
 ## Additional information:
 
 - Certificates for Udemy, Java Oracle
