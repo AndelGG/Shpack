@@ -4,8 +4,8 @@
 - Personal website: https://shpack.monster
 - Phone: +375299972522
 - E-mail: mail@andelgg.site
-- Link to the GitHub profile: 
-- https://github.com/andelgg
+- Link to the GitHub profile:  
+https://github.com/andelgg
 - LinkedIn profile: andelgg
 
 ## Professional profile:
