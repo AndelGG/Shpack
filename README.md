@@ -18,7 +18,7 @@ https://github.com/andelgg
 - Knowledge of the basic principles
 of secure software development
 - Libraries: Axios, Jquery, Cookie.js, React hook form, Django Rest Framework, Tailwind.css, bootstrap
-- Spoken Languages: English (B1), Russian (Native), Belorus (Native) 
+- Spoken Languages: English (B1), Russian (Native), Belarusian (Native) 
 
 ## Development experience:
 
